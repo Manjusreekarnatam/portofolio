@@ -1,0 +1,21 @@
+
+h1{
+    background-color:rgb(197, 98, 243);
+    
+}
+h2 {
+    background-color: rgb(96, 219, 96);
+}
+button {
+    background-color: rgb(240, 101, 77);
+    font-size: medium;
+}
+#content {
+    background-color: rgb(240, 213, 229);
+}
+#button {
+    background-color: goldenrod;
+}
+#img {
+    background-color: rgb(67, 80, 114);
+}
